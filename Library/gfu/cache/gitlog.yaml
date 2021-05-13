@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-05-12T20:32:06.227-04:00
+  initializedAtString: 2021-05-12T20:16:34.935-04:00
+  log:
+  - commitID: 6e59f68e5a11bde823be7c773a65b3baaeab021f
+    mergeA: 
+    mergeB: 
+    authorName: dlovett1
+    authorEmail: darius.lovett1@gmail.com
+    commitEmail: darius.lovett1@gmail.com
+    commitName: dlovett1
+    summary: readme copy
+    description: 
+    timeString: 2021-05-12T20:26:24.000-04:00
+    commitTimeString: 2021-05-12T20:26:24.000-04:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/dariuslovett/Attack of the Elements/.DS_Store
+      projectPath: .DS_Store
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README copy
+      fullPath: /Users/dariuslovett/Attack of the Elements/README copy
+      projectPath: README copy
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: f0f8b10aac23b5199efc9fd07059d01d7f65959b
+    mergeA: 
+    mergeB: 
+    authorName: dlovett1
+    authorEmail: 60205788+dlovett1@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create README
+    description: 
+    timeString: 2021-05-12T20:20:36.000-04:00
+    commitTimeString: 2021-05-12T20:20:36.000-04:00
+    changes:
+    - path: README
+      fullPath: /Users/dariuslovett/Attack of the Elements/README
+      projectPath: README
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0

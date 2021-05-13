@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6BB18DE9-C0B2-C962-C406-E98897DD2A09}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets/MouseLook.cs" Line="24" Column="31" />
+      <File FileName="Assets/MagicProjectile.cs" Line="80" Column="41" />
+      <File FileName="Assets/firstPersonController.cs" Line="5" Column="1" />
+      <File FileName="Assets/projectile.cs" Line="16" Column="50" />
+      <File FileName="Assets/EnemyAi.cs" Line="98" Column="33" />
+      <File FileName="Assets/PlayerMovement.cs" Line="29" Column="61" />
+      <File FileName="Assets/TwoDimensionalAnimationStateController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Attack of the Elements" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6222f968-118b-4d0f-9690-b2238dd2b721" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
